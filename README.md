@@ -8,21 +8,19 @@ Hello! I'm Adrián, a computer engineer transitioning from traditional Java and 
 
 - 🔭 I’m currently working on **data science with Python and Retrieval-Augmented Generation (RAG) systems**.
 - 🌱 I’m currently learning **RAGs with Generative AI**.
-- 👯 I’m looking to collaborate on **AI-based revolutionary ideas**.
+- 👯 I’m looking to collaborate on **AI-based ideas that change how we solve daily tasks**.
 - 🤔 My main hobbies are **team sports and chess**.
 - 📫 How to reach me: **[Email](mailto:adrianpga.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adrianpga/)**.
-
 
 <h2>Stats</h2>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=adrianpga&rank_icon=github&show_icons=true&theme=transparent" alt="GitHub stats" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=adrianpga&rank_icon=github&show_icons=true&theme=transparent" alt="GitHub stats" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianpga&theme=transparent" alt="GitHub streak" />
 </p>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianpga&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Used languages" />
 </p>
-
 
 <h2>Skills</h2>
 
