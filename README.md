@@ -60,6 +60,11 @@ Hello! I'm Adrián, a computer engineer transitioning from traditional Java and 
     <img src="assets/star.svg" alt="star" width="25" height="40"/>
     <img src="assets/half-star.svg" alt="star" width="25" height="40"/>
     <br/>
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/langchain.svg" alt="langchain" width="40" height="40"/> </a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="assets/star.svg" alt="star" width="25" height="40"/>
+    <img src="assets/star.svg" alt="star" width="25" height="40"/>
+    <br/>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
     <img src="assets/star.svg" alt="star" width="25" height="40"/> 
