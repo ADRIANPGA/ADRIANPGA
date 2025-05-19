@@ -6,8 +6,8 @@
 
 Hello! I'm Adrián, a computer engineer transitioning from traditional Java and Python automation development to the exciting fields of AI and data science. My journey now focuses on leveraging Python to build natural language systems that bridge the gap between technical components and non-technical users.
 
-- 🔭 I’m currently working on **data science with Python and Retrieval-Augmented Generation (RAG) systems**.
-- 🌱 I’m currently learning **RAGs with Generative AI**.
+- 🔭 I’m currently working on **agentic oriented chatbots**.
+- 🌱 I’m currently learning **Agent2Agent integrated with LangGraph**.
 - 👯 I’m looking to collaborate on **AI-based ideas that change how we solve daily tasks**.
 - 🤔 My main hobbies are **team sports and chess**.
 - 📫 How to reach me: **[Email](mailto:adrianpga.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adrianpga/)**.
