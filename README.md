@@ -1,4 +1,4 @@
-<h1 align="center">Adrián</h1>
+<h1 align="center">Adrián Pérez</h1>
 
 <p align="center">
   <a href="https://github.com/ADRIANPGA">
@@ -9,8 +9,19 @@
 ## About
 
 <p align="center">
-  AI and Automation Engineer building production-grade agentic systems. <br/>
-  I connect LLM orchestration with backend services and user interfaces.
+  AI and Automation Engineer based in León, Spain. <br/>
+  I build production-grade agentic systems that turn complex language problems into reliable software.
+</p>
+
+<p align="center">
+  My work sits at the intersection of <strong>LLM orchestration</strong>, <strong>backend services</strong>, and <strong>user interfaces</strong>: <br/>
+  designing agent workflows with LangGraph and LangChain, exposing them through FastAPI, <br/>
+  and wrapping them in React / Next.js frontends when the problem calls for it.
+</p>
+
+<p align="center">
+  Most of my code lives in private organizational repositories, where I lead AI initiatives, <br/>
+  automate complex workflows, and ship end-to-end products that bridge technical systems with non-technical users.
 </p>
 
 ## Tech Stack
@@ -22,12 +33,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-</p>
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianpga&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
 ## Connect
