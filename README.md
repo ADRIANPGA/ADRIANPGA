@@ -19,11 +19,6 @@
   and wrapping them in React / Next.js frontends when the problem calls for it.
 </p>
 
-<p align="center">
-  Most of my code lives in private organizational repositories, where I lead AI initiatives, <br/>
-  automate complex workflows, and ship end-to-end products that bridge technical systems with non-technical users.
-</p>
-
 ## Tech Stack
 
 <p align="center">
@@ -31,8 +26,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ## Connect
